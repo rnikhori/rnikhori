@@ -20,7 +20,7 @@ My skills and expertise include:
 - 🌐 Decentralized Finance (DeFi)
 - 💼 NFTs (Non-Fungible Tokens)
 - 📜 Solidity and Smart Contract Development
-- 🦀 Rust Development
+- 🏄 Golang Programming
 - 🐍 Python Programming
 - 🚀 Blockchain Tools: Hardhat, Truffle, Foundry
 - 📦 JavaScript and Ether.js
