@@ -66,7 +66,6 @@ I've worked with various blockchain projects and protocols, including:
 - ⚡ Fun fact: I ❤️ Caffein☕.
 
 ---
-![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=genisis0x&show_icons=true&theme=cobalt)   ![My Github Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=genisis0x&layout=compact&hide=html&theme=cobalt)
 
 
 ### Languages and Tools:
