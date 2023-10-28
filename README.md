@@ -4,14 +4,14 @@ I'm Ritesh Nikhoriya, currently a full-time **Sr. Blockchain Engineer** and an I
 
 ## About Me
 
-I'm a blockchain enthusiast with a passion for decentralized technologies and smart contracts. With a background in blockchain engineering and auditing, I'm dedicated to contributing to the world of blockchain and ensuring the security and reliability of smart contracts and decentralized applications.
+ I am a dedicated blockchain enthusiast with a strong passion for decentralized technologies and smart contracts. With a solid background in blockchain engineering and auditing, I am committed to making meaningful contributions to the blockchain industry. My focus is on ensuring the security and reliability of smart contracts and decentralized applications, with the goal of advancing this transformative technology.
 
 ## My Work
 
-- 📊 **Senior Blockchain Engineer:** Currently, I work as a Senior Blockchain Engineer, where I apply my expertise in blockchain technologies to develop robust and secure solutions.
+   🖥️ **Senior Blockchain Engineer**: I currently serve as a Senior Blockchain Developer, specializing in blockchain technology. I'm responsible for designing, coding, and maintaining blockchain-based solutions, ensuring they're both resilient and secure.
 
-- 🔐 **Senior Independent Auditor:** As an Independent Auditor, I conduct Independent audits to ensure the integrity and security of smart contracts, contributing to the overall safety of the blockchain ecosystem.
-
+  🔍 **Smart Contract Security Auditor**: In my role as a Smart Contract Security Auditor, I meticulously examine and scrutinize smart contracts to pinpoint vulnerabilities, fortify their integrity, and enhance overall security within the blockchain ecosystem. My audits are a crucial step in safeguarding the trustworthiness of these contracts.
+  
 ## Skills
 
 My skills and expertise include:
@@ -63,7 +63,7 @@ I've worked with various blockchain projects and protocols, including:
 - 👨🏼‍💼 I'm working as a senior smart contract freelance Auditor .
 - 🤝 I am looking forward to collaborating on some open-source projects, private projects, and senior smart contract Auditing.
 - 🤔 I’m looking for help with Remote Jobs and want to change my job.
-- ⚡ Fun fact: I ❤️ Caffein☕.
+- ⚡ Fun fact: I ❤️ Chess ♟️.
 
 ---
 
